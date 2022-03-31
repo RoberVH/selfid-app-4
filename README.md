@@ -1,3 +1,6 @@
+# Selfid-app-4
+## ejemplo basico conexion con web3modal hospedando Portis, Metamask (injectedProvider) y walletconnect
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
